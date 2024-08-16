@@ -1,5 +1,7 @@
 # Java Expense Tracker with GUI
 
+https://devfolio.co/projects/expense-tracker-3ba8
+
 ![Expense Tracker Demo](demo.gif)
 
 This is a simple expense tracker application built using Java Swing for the GUI. It allows users to keep track of their expenses by adding, editing, and deleting transactions.
